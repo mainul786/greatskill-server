@@ -1,0 +1,164 @@
+[
+    {
+      "id": "xyzcbdgmnwxdr-1",
+      "category_id":"01",
+      "title": "HTML Introduction",
+      "img": "https://ibb.co/VVqJjZn",
+      "details": "The <!DOCTYPE html> declaration defines that this document is an HTML5 document, The <html> element is the root element of an HTML page,The <head> element contains meta information about the HTML page.The title element specifies a title for the HTML page. ",
+      "rating": 4.9,
+      "view": "1M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-2",
+      "category_id": "01",
+      "title": "HTML Footer",
+      "img": "https://ibb.co/zHpc0Pt",
+      "details": "The <footer> HTML element represents a footer for its nearest ancestor sectioning content or sectioning root element. A <footer> typically contains information about the author of the section, copyright data or links to related documents.",
+      "rating": 4.9,
+      "view": "1M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-3",
+      "category_id":"01",
+      "title": "HTML Form",
+      "img": "https://ibb.co/5c76qbZ",
+      "details": "An HTML form is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc. An HTML form facilitates the user to enter data that is to be sent to the server for processing such as name, email address, password, phone number, etc. .",
+      "rating": 4.9,
+      "view": "1M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-4",
+      "category_id":"01",
+      "img": "https://ibb.co/MRZb0sj",
+      "title": "HTML Section",
+      "details": "The HTML section tag is used to define sections in a document. When you put your content on a web page, it may contains many chapters, headers, footers, or other sections on a web page that is why HTML <section> tag is used. HTML <section> is a new tag introduced in HTML5.",
+      "rating": 4.9,
+      "view": "1M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-5",
+      "category_id": "02",
+      "title": "CSS Grid Topic",
+      "img": "https://ibb.co/R9RCQL0",
+      "details": "The CSS grid layout module excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives. Like tables, grid layout enables an author to align elements into columns and rows.",
+      "rating": 4.5,
+      "view": "2M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-6",
+      "category_id":"02",
+      "title": "CSS Core-concept",
+      "img": "https://ibb.co/1nBSnvY",
+      "details": "This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties. ",
+      "rating": 4.5,
+      "view": "2M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-7",
+      "category_id":"02",
+      "title": "Details of Spaceing ",
+      "img": "https://ibb.co/xM7kXhf",
+      "details": "The CSS padding properties are used to generate space around an element's content, inside of any defined borders. With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left)",
+      "rating": 4.5,
+      "view": "2M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-8",
+      "category_id": "03",
+      "title": "TailWind Accodian CSS",
+      "img": "https://ibb.co/mCjxJcb",
+      "detials": "Use our Tailwind CSS accordion component to allow the user to show and hide sections of related content on a page. There are many ways to use this component, like displaying a list of FAQs, showing various menus and submenus, displaying the locations of a particular company, and so on.See below our simple and versatile accordion example that you can use in your Tailwind CSS projects. We also included some accordion props that are available.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-9",
+      "category_id": "03",
+      "title": "TailWind Hero Section",
+      "img": "https://ibb.co/2g3T64n",
+      "details": "Get started with a collection of hero sections coded with Tailwind CSS to ... A hackable text editor for the 21st Century.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-10",
+      "category_id":  "03",
+      "title": "Tailwind CSS",
+      "img": "https://ibb.co/y6PcSzR",
+      "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-11",
+      "category_id": "03",
+      "title": "Javascript Variable",
+      "img": "https://ibb.co/Q9R6gh6",
+      "details": "JavaScript variables can hold numbers like 100 and text values like John Doe. In programming, text values are called text strings. JavaScript can handle many types of data, but for now, just think of numbers and strings. Strings are written inside double or single quotes.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-12",
+      "category_id": "04",
+      "title": "Javascript Operation",
+      "img": "https://ibb.co/sJ4xbD4",
+      "details": "JavaScript includes operators same as other languages. An operator performs some operation on single or multiple operands (data value) and produces a result. For example, in 1 + 2, the + sign is an operator and 1 is left side operand and 2 is right side operand. The + operator performs the addition of two numeric values and returns a result.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-13",
+      "category_id":"04",
+      "title": "JavaScript Array",
+      "img": "https://ibb.co/n3MfT2G",
+      "details": "arr.push – adds items to the end,arr.pop – extracts an item from the end,arr.shift – extracts an item from the beginning,arr.unshift ...items – adds items to the beginning.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-14",
+      "category_id":"04",
+      "title": "JS Event Loop",
+      "img": "https://ibb.co/X7KMds1",
+      "details": "JavaScript is a single-threaded asynchronous programming language. But what does it mean? What is this event loop in JavaScript that we all keep talking about? What does it mean when we say JavaScript is single-threaded?It means that the main thread where JavaScript code is run, runs in one line at a time manner and there is no possibility of running code in parallel.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-15",
+      "category_id": "05",
+      "title": "React Feature",
+      "img": "https://ibb.co/0nLKk7r",
+      "details": "Components are the fundamental building blocks of a React application. They are reusable, self-contained pieces of code for rendering a specific UI part. React components can be either class-based or function-based. Function-based components are becoming more prevalent due to the introduction of React Hooks.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-16",
+      "category_id": "05",
+      "title": "React Context-API",
+      "img": "https://ibb.co/2tVTY3j",
+      "details": "The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to prop drilling or moving props from grandparent to child to parent, and so on.",
+      "rating": 4.6,
+      "view": "1.5M"
+    },
+    {
+      "id":"xyzcbdgmnwxdr-17",
+      "category_id":"06",
+      "title": "Node Express",
+      "img": "https://ibb.co/jhsBBzz",
+      "details": "Node.js is an open-source and cross-platform runtime used when executing JavaScript code on the server-side. One of the popular Node.js server frameworks is Express. Implementing CORS in Node.js helps you access numerous functionalities on the browser.",
+      "rating": 4.1,
+      "view": "2.5M"
+    },
+    {
+      "id": "xyzcbdgmnwxdr-18",
+      "category_id":"06",
+      "title": "Node Tutorial",
+      "img": "https://ibb.co/BV6MdW8",
+      "details": "Node. js (Node) is an open source, cross-platform runtime environment for executing JavaScript code. Node is used extensively for server-side programming, making it possible for developers to use JavaScript for client-side and server-side code without needing to learn an additional language.",
+      "rating": 4.1,
+      "view": "2.5M"
+    }
+  ]
